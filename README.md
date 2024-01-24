@@ -1,1 +1,3 @@
-Hola, actualmente el back de este proyecto no esta funcionando, estoy aplicando algunos cambios.
+Hi
+
+At the moment , the back-end is down , i fixes some things 
